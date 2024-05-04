@@ -1,7 +1,7 @@
 # Presentación de mi GitHub
 
 ## Acerca de mí
-¡Hola! Soy Jorge Andres, un especialista en estadística aplicada apasionado por el análisis de datos y la ciencia de datos en general. Mi enfoque principal es aplicar técnicas estadísticas avanzadas para extraer información significativa y tomar decisiones informadas en diversos campos.
+¡Hola! Soy Jorge Andres, un especialista en estadística aplicada apasionado por la ciencia de datos y el Machine Learning en general. Mi enfoque principal es aplicar técnicas estadísticas avanzadas para extraer información significativa y tomar decisiones informadas en diversos campos.
 
 ## Proyectos de Ciencia de Datos
 
