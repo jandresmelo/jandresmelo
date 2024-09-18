@@ -9,21 +9,29 @@ Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a 
 
 ## Proyectos de Interes
 
-### 1. Base de datos
-- **Descripción**: Base de datos PostgreSQL para el manejo de metadatos similar a Geonetwork
-- **Tecnologías Utilizadas**: PostgreSQL, SQL.
-- **Enlace al Proyecto**: [Limpieza de Datos en PostgreSQL](enlace-al-proyecto)
-- **Tema**: Inventario / Metadatos
-- **Institución**: IGAC
-- **Año**: 2006
+### 1. Extraccion de datos 
+- **Descripción**: Este proyecto tiene como objetivo automatizar la extracción de metadatos de archivos y directorios, verificando su existencia en una base de datos PostgreSQL. El proceso incluye la validación de identificadores únicos de pozos (UWI), la exclusión de archivos innecesarios o temporales, y la inserción eficiente de los datos en la base de datos en lotes, utilizando técnicas de paralelismo para maximizar el rendimiento.
+- **Tecnologías Utilizadas**: PostgreSQL para la gestión de la base de datos, SQL para consultas eficientes y Python para la automatización del procesamiento de archivos, incluyendo bibliotecas como psycopg2 para la conexión a bases de datos y concurrent.futures para el procesamiento en paralelo.
+- **Enlace al Proyecto**: [Extraccion de datos en carpeta](https://github.com/jandresmelo/FILEPROPEXTRACTOR.git)
+- **Tema**: Automatización y optimización de procesos de extracción de datos en archivos y directorios, con validación y registro de errores.
+- **Institución**: 
+- **Año**: 2024
 
-### 1. Base de datos
-- **Descripción**: Base de datos PostgreSQL para el manejo de metadatos similar a Geonetwork
-- **Tecnologías Utilizadas**: PostgreSQL, SQL.
+### 2. Validador Inventario
+- **Descripción**: Herramienta de gestión de inventarios diseñada para facilitar el control y administración de bienes devolutivos en una litoteca. La aplicación permite realizar búsquedas, inserciones y actualizaciones de registros utilizando una base de datos PostgreSQL y una interfaz gráfica amigable desarrollada en Tkinter.
+- **Tecnologías Utilizadas**: Python, Tkinter, PostgreSQL, psycopg2, openpyxl.
 - **Enlace al Proyecto**: [Validar Elementos Inventario](https://github.com/jandresmelo/INVENTARIO_VALIDATOR.git)
-- **Tema**: Inventario / Metadatos
-- **Institución**: IGAC
-- **Año**: 2006
+- **Tema**: Gestión de Inventarios / Control de Bienes
+- **Institución**: Ninguna
+- **Año**: 2024
+
+### 2. Validador Inventario
+- **Descripción**: Herramienta de gestión de inventarios diseñada para facilitar el control y administración de bienes devolutivos en una litoteca. La aplicación permite realizar búsquedas, inserciones y actualizaciones de registros utilizando una base de datos PostgreSQL y una interfaz gráfica amigable desarrollada en Tkinter.
+- **Tecnologías Utilizadas**: Python, Tkinter, PostgreSQL, psycopg2, openpyxl.
+- **Enlace al Proyecto**: [Validar Elementos Inventario](https://github.com/jandresmelo/INVENTARIO_VALIDATOR.git)
+- **Tema**: Gestión de Inventarios / Control de Bienes
+- **Institución**: Ninguna
+- **Año**: 2024
 
 ## Contáctame
 ¡Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres ponerte en contacto, no dudes en hacerlo!
