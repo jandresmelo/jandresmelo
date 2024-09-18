@@ -17,6 +17,14 @@ Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a 
 - **Institución**: IGAC
 - **Año**: 2006
 
+### 1. Base de datos
+- **Descripción**: Base de datos PostgreSQL para el manejo de metadatos similar a Geonetwork
+- **Tecnologías Utilizadas**: PostgreSQL, SQL.
+- **Enlace al Proyecto**: [Limpieza de Datos en PostgreSQL](enlace-al-proyecto)
+- **Tema**: Inventario / Metadatos
+- **Institución**: IGAC
+- **Año**: 2006
+
 ## Contáctame
 ¡Si estás interesado en colaborar en alguno de mis proyectos o simplemente quieres ponerte en contacto, no dudes en hacerlo!
 
