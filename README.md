@@ -23,7 +23,7 @@ Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a 
 ### Proyecto 3. union pdf por listado xlsx
 - **Descripción**: Este proyecto tiene como objetivo combinar varios archivos PDF basándose en un listado proporcionado en un archivo XLSX. La funcionalidad permite automatizar el proceso de combinación de PDFs en función de criterios establecidos en el documento Excel, optimizando así el manejo de grandes volúmenes de información en formato PDF.
 - **Tecnologías Utilizadas**: El proyecto utiliza tecnologías para la manipulación de archivos PDF y el procesamiento de datos en Excel. Se emplean bibliotecas como PyPDF2 para la manipulación de PDFs y pandas para la lectura y manejo de archivos XLSX.
-- **Enlace al Proyecto**: [Validar Elementos Inventario](https://github.com/jandresmelo/UNION_PDF.git)
+- **Enlace al Proyecto**: [join pdfs listado xlsx](https://github.com/jandresmelo/UNION_PDF.git)
 - **Tema**: Automatización en la combinación de PDFs basada en listados de Excel.
 
 
