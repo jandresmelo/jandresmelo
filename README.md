@@ -17,7 +17,7 @@ Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a 
 ### Proyecto 2. Validador Inventario
 - **Descripción**: Herramienta de gestión de inventarios diseñada para facilitar el control y administración de bienes devolutivos en una litoteca. La aplicación permite realizar búsquedas, inserciones y actualizaciones de registros utilizando una base de datos PostgreSQL y una interfaz gráfica amigable desarrollada en Tkinter.
 - **Tecnologías Utilizadas**: Python, Tkinter, PostgreSQL, psycopg2, openpyxl.
-- **Enlace al Proyecto**: [Validar Elementos Inventario](https://github.com/jandresmelo/INVENTARIO_VALIDATOR.git)
+- **Enlace al Proyecto**: [Verificación Inventario Bienes Devolutivos](https://github.com/jandresmelo/INVENTARIO_VALIDATOR.git)
 - **Tema**: Gestión de Inventarios / Control de Bienes
 
 ### Proyecto 3. union pdf por listado xlsx
