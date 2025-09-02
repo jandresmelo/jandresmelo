@@ -8,7 +8,36 @@ Como profesional especializado en estadística, tengo un fuerte interés en inte
 Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a generar insights significativos y soluciones eficaces en el campo del manejo de datos.
 
 
-### Proyecto 1. Extraccion de datos 
+### Proyecto 1. Buscador
+
+- **Descripción**:  
+  El **Buscador Litoteca Nacional** es una herramienta desarrollada para facilitar la **consulta, validación y trazabilidad** de información técnica y documental relacionada con **pozos, proyectos y productos** almacenados en la Litoteca Nacional.  
+  Se apoya en una base de datos **PostgreSQL**, alimentada automáticamente mediante procesos de extracción de metadatos, para ofrecer:
+
+  - Búsquedas rápidas por identificadores únicos (UWI, UPI)
+  - Filtros por tipo de producto (PDF, imágenes, registros)
+  - Estadísticas detalladas del repositorio
+  - Detección de inconsistencias estructurales en los archivos
+
+  El sistema cuenta con **autenticación de usuarios** y se ejecuta desde la **intranet institucional**.
+
+- **Tecnologías Utilizadas**:
+  - `Python 3.12`
+  - `Flask` (Web Framework)
+  - `PostgreSQL` (Base de datos relacional)
+  - `psycopg2` (Conexión SQL con Python)
+  - `HTML5 + CSS3` (Interfaz de usuario)
+  - `Jinja2` (Motor de plantillas)
+  - `Visual Studio Code` + `Conda` (entorno de desarrollo)
+
+- **Enlace al Proyecto**:  
+  [Buscador](https://github.com/jandresmelo/BUSCADOR.git)
+
+- **Tema**:  
+  Exploración y localización de archivos mediante metadatos generados automáticamente, con enfoque en la eficiencia, trazabilidad y calidad de datos técnicos.
+
+
+### Proyecto 2. Extraccion de datos - Metadata Harvesting
 - **Descripción**: Este proyecto tiene como objetivo automatizar la extracción de metadatos de archivos y directorios, verificando su existencia en una base de datos PostgreSQL. El proceso incluye la validación de identificadores únicos de pozos (UWI), la exclusión de archivos innecesarios o temporales, y la inserción eficiente de los datos en la base de datos en lotes, utilizando técnicas de paralelismo para maximizar el rendimiento.
 - **Tecnologías Utilizadas**: PostgreSQL para la gestión de la base de datos, SQL para consultas eficientes y Python para la automatización del procesamiento de archivos, incluyendo bibliotecas como psycopg2 para la conexión a bases de datos y concurrent.futures para el procesamiento en paralelo.
 - **Enlace al Proyecto**: [Extraccion de datos en carpeta](https://github.com/jandresmelo/FILEPROPEXTRACTOR.git)
@@ -17,7 +46,7 @@ Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a 
 ### Proyecto 2. Extracción de Metadatos de Archivos
 - **Descripción**: HEste proyecto automatiza la extracción de metadatos de archivos y directorios en un repositorio, almacenando la información en una base de datos PostgreSQL. Se excluyen archivos temporales y se procesan los datos en lotes mediante paralelismo con múltiples hilos, optimizando el rendimiento y el tiempo de procesamiento.
 - **Tecnologías Utilizadas**: PostgreSQL para la gestión de datos, SQL para consultas y Python con librerías como psycopg2 y concurrent.futures para el procesamiento paralelo de archivos.
-- **Enlace al Proyecto**: [Extracción de metadatos en carpetas](https://github.com/jandresmelo/FILEEXTRACTORDATABASE.git)
+- **Enlace al Proyecto**: [Extracción de metadatos en carpetas](https://github.com/jandresmelo/METADATAHARVESTER.git)
 - **Tema**: Extraccion de datos en archivos.
 
 ### Proyecto 3. Validador Inventario
