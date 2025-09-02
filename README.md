@@ -38,12 +38,6 @@ Estoy comprometido con aprovechar mis habilidades y conocimientos para ayudar a 
 
 
 ### Proyecto 2. Extraccion de datos - Metadata Harvesting
-- **Descripción**: Este proyecto tiene como objetivo automatizar la extracción de metadatos de archivos y directorios, verificando su existencia en una base de datos PostgreSQL. El proceso incluye la validación de identificadores únicos de pozos (UWI), la exclusión de archivos innecesarios o temporales, y la inserción eficiente de los datos en la base de datos en lotes, utilizando técnicas de paralelismo para maximizar el rendimiento.
-- **Tecnologías Utilizadas**: PostgreSQL para la gestión de la base de datos, SQL para consultas eficientes y Python para la automatización del procesamiento de archivos, incluyendo bibliotecas como psycopg2 para la conexión a bases de datos y concurrent.futures para el procesamiento en paralelo.
-- **Enlace al Proyecto**: [Extraccion de datos en carpeta](https://github.com/jandresmelo/FILEPROPEXTRACTOR.git)
-- **Tema**: Automatización y optimización de procesos de extracción de datos en archivos y directorios, con validación y registro de errores.
-
-### Proyecto 2. Extracción de Metadatos de Archivos
 - **Descripción**: HEste proyecto automatiza la extracción de metadatos de archivos y directorios en un repositorio, almacenando la información en una base de datos PostgreSQL. Se excluyen archivos temporales y se procesan los datos en lotes mediante paralelismo con múltiples hilos, optimizando el rendimiento y el tiempo de procesamiento.
 - **Tecnologías Utilizadas**: PostgreSQL para la gestión de datos, SQL para consultas y Python con librerías como psycopg2 y concurrent.futures para el procesamiento paralelo de archivos.
 - **Enlace al Proyecto**: [Extracción de metadatos en carpetas](https://github.com/jandresmelo/METADATAHARVESTER.git)
